@@ -5,13 +5,13 @@
   "keywords": ["react", "starter"],
   "main": "src/index.js",
   "dependencies": {
-    "react": "18.0.0",
-    "react-dom": "18.0.0",
-    "react-scripts": "4.0.0"
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
   },
   "devDependencies": {
-    "@babel/runtime": "7.13.8",
-    "typescript": "5.1.0"
+    "@babel/runtime": "latest",
+    "typescript": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
